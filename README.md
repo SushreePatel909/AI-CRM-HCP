@@ -1,0 +1,24 @@
+# 🗺️ Project Roadmap AI-CRM-HCP
+
+- [x] Project Setup
+- [x] React + Vite Configuration
+- [x] Redux State Management
+- [x] FastAPI Backend Setup
+- [x] Database Integration (MySQL/PostgreSQL)
+- [x] Log Interaction Form UI
+- [x] Conversational Chat Interface
+- [x] LangGraph Agent Integration
+- [x] Groq LLM (Gemma2-9B) Integration
+- [x] Interaction Logging Tool
+- [x] Edit Interaction Tool
+- [x] AI Summary Generation
+- [x] Entity Extraction
+- [x] Follow-up Recommendation Tool
+- [x] Interaction History Tool
+- [x] API Integration
+- [x] Form Validation
+- [x] Responsive UI
+- [x] Error Handling
+- [x] Testing & Debugging
+- [x] Documentation
+- [x] GitHub Deployment
